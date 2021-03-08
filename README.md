@@ -9,4 +9,4 @@ My projects:
 Modern Namelessmc Template |
 
 Software I use:
-[![Webstorm](https://i.ibb.co/bBLjGdF/Logo-big.jpg)] [![Visual Studio Code](https://i.ibb.co/3cNJyTd/1200px-Visual-Studio-Code-1-35-icon-svg.png)] [![Firefox Developer Edition](https://i.ibb.co/ZS7qvtY/Fsdfsdf.png)]
+[Webstorm](https://i.ibb.co/bBLjGdF/Logo-big.jpg) [Visual Studio Code](https://i.ibb.co/3cNJyTd/1200px-Visual-Studio-Code-1-35-icon-svg.png) [Firefox Developer Edition](https://i.ibb.co/ZS7qvtY/Fsdfsdf.png)
